@@ -1,0 +1,13 @@
+---
+:id: 95666190
+:submitters:
+- :name: LANE ZAUGG
+  :email: u1375540@utah.edu
+- :name: ALIVIA LILJENQUIST
+  :email: u1348865@utah.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-10-23 00:34:26.839689000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-10-22 17:34:26.839689000 Z
+:status: processed
