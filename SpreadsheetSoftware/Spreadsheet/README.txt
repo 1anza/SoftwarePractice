@@ -1,4 +1,3 @@
-Lane Zaugg
 October 21st, 2021
 
 Design Decisions
